@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "General Purpose Playground for Experimenting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zx8086/playground.git"
+  },
+  "author": "Simon Owusu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zx8086/playground/issues"
+  },
+  "homepage": "https://github.com/zx8086/playground#readme"
+}
