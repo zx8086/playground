@@ -2,3 +2,5 @@
 tasks:
   - init: npm install
     command: npm run dev
+  - init: echo "Git config"
+    command: git config --global user.email 1085655+zx8086@users.noreply.github.com
